@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34701.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core Dependancy Injection MVC", "ASP.NET Core Dependancy Injection MVC.csproj", "{A16351A4-0D2E-4FB6-902C-FA1E8AE8572D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16351A4-0D2E-4FB6-902C-FA1E8AE8572D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16351A4-0D2E-4FB6-902C-FA1E8AE8572D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16351A4-0D2E-4FB6-902C-FA1E8AE8572D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16351A4-0D2E-4FB6-902C-FA1E8AE8572D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EE1222-42C0-4C94-BBEF-665ADA2C0244}
+	EndGlobalSection
+EndGlobal
